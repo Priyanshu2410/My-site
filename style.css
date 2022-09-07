@@ -47,7 +47,7 @@ header {
 
 .menu-items a {
   text-decoration: none;
-  color: #f0f0e6;
+  color: #0c080a;
   font-size: 1.2rem;
   padding: 0.3rem;
 }
@@ -119,6 +119,7 @@ header {
     width: 171px;
     object-fit: cover;
     border-radius: 14%;
+    margin: 10px 0px 10px;
 }
 
 .about-content p {
@@ -319,7 +320,7 @@ header {
   height: 330px;
   width: 380px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 42%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
   margin-right: 1.7rem;
 }
@@ -390,7 +391,7 @@ header {
   height: 330px;
   width: 380px;
   object-fit: cover;
-  border-radius: 50%;
+  border-radius: 42%;
   box-shadow: 0 20px 10px -10px rgb(37 41 52 / 31%);
   margin-right: 1.7rem;
 }
